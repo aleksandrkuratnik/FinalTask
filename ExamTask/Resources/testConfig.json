@@ -1,0 +1,14 @@
+{
+  "MainUrl": "http://localhost:8080/web",
+  "ApiUrl": "http://localhost:8080/api",
+  "VariantParameter": "variant",
+  "ProjectIdParameter": "projectId",
+  "SIDParameter": "SID",
+  "ProjectNameParameter": "projectName",
+  "TestNameParameter": "testName",
+  "MethodNameParameter": "methodName",
+  "EnvParameter": "env",
+  "TestIdParameter": "testId",
+  "ContentParameter": "content",
+  "ContentTypeParameter": "contentType"
+}

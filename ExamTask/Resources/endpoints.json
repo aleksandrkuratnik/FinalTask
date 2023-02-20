@@ -1,0 +1,7 @@
+﻿{
+  "GetTokenUrl": "/token/get",
+  "GetTestsUrl": "/test/get/json",
+  "PostNewTestUrl": "/test/put",
+  "AddLogsToTestUrl": "/test/put/log",
+  "AddScreenshotToTestUrl": "/test/put/attachment"
+}
